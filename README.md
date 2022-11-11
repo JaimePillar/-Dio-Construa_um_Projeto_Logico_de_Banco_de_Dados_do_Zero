@@ -7,7 +7,7 @@
 
 # Projeto de Banco de Dados de Oficina
 
-## Juliana MAscarenhas
+## Juliana Mascarenhas
 
 
 	- Contexto: Levantamento de requisitos
